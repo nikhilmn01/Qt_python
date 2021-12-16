@@ -1,9 +1,11 @@
 import pytest
 
 
-def test_first_program():
+@pytest.mark.smoke1
+@pytest.mark.skip
+def test_first_program(config):
     print("hello ")
 
-
-def test_secondProgram():
+@pytest.mark.skip
+def test_secondProgram(config):
     print("second program")
