@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f78810c3-a52a-4fe4-babd-7069a5ca61df" name="Changes" comment="day_start_commit">
-      <change afterPath="$PROJECT_DIR$/pyTest/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyTest/test_demo3.py" afterDir="false" />
+    <list default="true" id="f78810c3-a52a-4fe4-babd-7069a5ca61df" name="Changes" comment="class_level_testing">
+      <change afterPath="$PROJECT_DIR$/pyTest/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTest/test_logging.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyTest/test_demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyTest/test_demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyTest/test_demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyTest/test_demo2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pyTest" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\nikhil.mn\QTpycharm-worksapce\Qt_python\Training" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in pyTest">
+  <component name="RunManager" selected="Python tests.Python tests for test_logging.test_loggingDemo">
     <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Qt_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +104,20 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_logging.test_loggingDemo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Qt_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_logging.test_loggingDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in test_demo3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Qt_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,9 +154,11 @@
       <item itemvalue="Python tests.pytest in pyTest" />
       <item itemvalue="Python tests.Python tests for test_demo1.test_secondProgram" />
       <item itemvalue="Python tests.Python tests in test_demo3.py" />
+      <item itemvalue="Python tests.Python tests for test_logging.test_loggingDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_logging.test_loggingDemo" />
         <item itemvalue="Python tests.Python tests in test_demo3.py" />
         <item itemvalue="Python tests.Python tests for test_demo1.test_secondProgram" />
         <item itemvalue="Python.sample2" />
@@ -166,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639634202021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class_level_testing">
+      <created>1639640471698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639640471698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +204,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="day_start_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="day_start_commit" />
+    <MESSAGE value="class_level_testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="class_level_testing" />
   </component>
 </project>

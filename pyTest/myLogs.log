@@ -1,0 +1,4 @@
+
+2021-12-16 15:31:27,452 :WARNING :test_logging :Something is in warning mode
+2021-12-16 15:31:27,466 :ERROR :test_logging :A Major error has happened
+2021-12-16 15:31:27,466 :CRITICAL :test_logging :Critical issue
